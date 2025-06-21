@@ -107,7 +107,7 @@ if [[ -e "$HOME/lista-arq" ]]; then
     done
 
     # --- Post-descarga y configuración de herramientas ---
-    # Descarga e instala el script 'trans' (traductor) si no existe
+    # Descarga e instala el script 'trans' (traductor) si no existe//https://github.com/SNIPER754186/latambotold/blob/LaTamSRC/dropbox/trans
     [[ ! -e /usr/bin/trans ]] && wget -O /usr/bin/trans https://www.dropbox.com/s/l6iqf5xjtjmpdx5/trans?dl=0 &> /dev/null
     chmod +x /usr/bin/trans &> /dev/null # Asegura que sea ejecutable
 

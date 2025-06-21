@@ -171,10 +171,10 @@ msg -bar2
 msg -verd "Perfecto, iniciando procedimiento de actualización...${SEMCOR}" # Traducido.
 # Descarga el script de instalación principal desde GitHub.
 # Nota: Esta URL es específica del repositorio Ultimate-VPS.
-wget -O "$HOME/instalar.sh" https://raw.githubusercontent.com/4nth0nySLT/Ultimate-VPS/master/instalador.sh &>/dev/null
-chmod +x "$HOME/instalar.sh" # Da permisos de ejecución.
+wget -O "$HOME/instalador.sh" https://raw.githubusercontent.com/SNIPER754186/latambotold/refs/heads/LaTamSRC/instalador.sh &>/dev/null
+chmod +x "$HOME/instalador.sh" # Da permisos de ejecución.
 local LINGUAGE=$(cat "${SCPidioma}") # Lee el idioma actual.
-"$HOME/instalar.sh" "${LINGUAGE}" # Ejecuta el instalador con el idioma actual.
+"$HOME/instalador.sh" "${LINGUAGE}" # Ejecuta el instalador con el idioma actual.
 }
 
 # --- Función para Cambiar el Idioma del Menú ---
