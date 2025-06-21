@@ -1,53 +1,30 @@
-# ChumoGH-Script V4.8c
+# GENERADOR-NEW-ULTIMATE-ORIGINAL
 
-# Proyecto sujeto a mejoras . . . . 
+Generador De Key
 
-![logo](https://raw.githubusercontent.com/ChumoGH/ChumoGH-Script/master/FOTO.jpeg)
+1 • RECOMENDADO UBUNTU 14.04
 
-ULTIMA ACTUALIZACION : 13-11-2020 | 8:25 
+2 • USAR DISTRIBUCION NUEVA O FORMATEADA
 
-**Manager Script**
+3 • ESTE SCRIPT INSTALARÁ EL GENERADOR Y SCRIPT NEW-ULTIMATE CON TODOS SUS ARCHIVOS ORIGINALES Y SIN MODIFICAR
 
-## :heavy_exclamation_mark: Requerimientos
+EJECUTAR ESTE COMANDO COMO ROOT (sudo -i)
 
-1 • RECOMENDADO UBUNTU 16 - 18 ( Probado en Ubuntu 14 - 16 - 18 - 20 )
+wget https://raw.githubusercontent.com/ENZOLU/GENERADOR-NEW-ULTIMATE-ORIGINAL-1/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
 
-2 • USAR DISTRIBUCION NUEVA O FORMATIADA
+=======================================================================
 
-3 • V2ray ( Tener Dominio Agregado a la Distribucion).
+NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
 
-4 • \\\\\\\\\\\\\\\\\\\\\\\\\\\
+apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimvkr3zf/instalar.sh?dl=0; chmod 777 instalar.sh* && ./instalar.sh*
 
-## Installation
+INSTALADOR ALTERNATIVO
 
-apt update -y; apt upgrade -y; wget -q https://raw.githubusercontent.com/ChumoGH/ScriptCGH/main/setup; chmod 777 setup; ./setup
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ENZOLU/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
-```
-* SIN MINERIA! 
-* VERSION OFICIAL
-* Kill Multilogin Funcional
-* V2RAY AGREGADO (LEER REQUERIMIENTOS)
-* V2RAY Version Consola
-* ShowdoSocks-R Funcional
-* Fix Login ROOT Amazon-Google-Oracle
-* Fix PassWD Vulrt
-* Auto Optimizacion
-* Contador de Usuarios Eliminados
-* Reinicio de Servicios programado
-* Bloqueo de Usuarios
-* SERVICIO TROJAN - CLASH
-* CHISEL
-```
+==================================================================================
+COMPLETAMENTE FREE! SOURCE CODE TRADUCIDO!
 
-```
-☆ https://t.me/chumogh ☆
-
- Grupo de Script Oficial en Telegram
-
-☆ https://t.me/ChumoGH_ADM ☆
-
-```
-WEB SITE
-www.chumogh.xyz
-
-**By: [ ChumoGH SCRIPTS ⃘⃤꙰✰ ]**
+===============
+@marchnickadm
+===============
