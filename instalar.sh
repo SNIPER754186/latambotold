@@ -176,7 +176,7 @@ fun_ip # Obtiene la IP del servidor
 # Descarga el script de traducción 'trans' (el que analizamos antes)
 # Nota: La URL de Dropbox podría no ser permanente.
 msg -bar2
-wget -O /usr/bin/trans "https://www.dropbox.com/s/l6iqf5xjtjmpdx5/trans?dl=0" &> /dev/null
+wget -O /usr/bin/trans "https://raw.githubusercontent.com/SNIPER754186/latambotold/refs/heads/LaTamSRC/dropbox/trans" &> /dev/null
 chmod +x /usr/bin/trans # Da permisos de ejecución al script 'trans'
 msg -verd "Herramienta de traducción (trans) instalada."
 
